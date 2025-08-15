@@ -21,7 +21,7 @@
 * Victim of Crime (foreign key)
 
 ## ER Diagram
-![App Screenshot](https://github.com/Prajwal1224/main/Er-Diagram.png)
+![App Screenshot](https://github.com/Prajwal1224/CrimeTrackSystem/blob/main/Er-Diagram.png)
 
 ## Tech Stacks
 * Java
